@@ -1,6 +1,6 @@
 # Batalha Naval - POO
 
-Trabalho acadêmico da discplina de Programação Orientada a Objetos
+Atividade como requisito avaliativo para a disciplina **Programação Orientada a Objetos**, ministrada pelo Programa de Graduação em Sistemas de Informação, PUC Minas - Unidade São Gabriel.
 
 ## Diagrama de Classes - UML
 ![Diagrama de Classes - UML](UML/Diagrama1.png)
